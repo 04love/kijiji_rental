@@ -1,6 +1,4 @@
-%%writefile app.py
 import streamlit as st
-pip install plotly streamlit
 import pandas as pd
 import plotly.express as px
 import joblib
